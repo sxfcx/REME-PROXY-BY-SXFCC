@@ -6,5 +6,6 @@ return {
       332362, -- wijenlo
       144604, -- Murung
       902870, -- efe
-      380470 -- Mammedoff
+      380470, -- Mammedoff
+      827432
 }
