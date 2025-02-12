@@ -11,5 +11,6 @@ return {
       909703, -- Add UID Yohannnn
       411855, -- mor
       582265, -- IMH
-      537474
+      537474,
+      911127 -- ZYNXZYNXZYNZ
 }
