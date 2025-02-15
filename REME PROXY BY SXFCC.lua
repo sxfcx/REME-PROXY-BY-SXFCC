@@ -12,5 +12,6 @@ return {
       411855, -- mor
       582265, -- IMH
       537474,
-      911127 -- ZYNXZYNXZYNZ
+      911127, -- ZYNXZYNXZYNZ
+      514984 -- Bo3
 }
