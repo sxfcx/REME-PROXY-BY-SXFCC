@@ -14,5 +14,6 @@ return {
       537474,
       911127, -- ZYNXZYNXZYNZ
       514984, -- Bo3
-      107667 -- Dyh
+      107667, -- Dyh
+      502409 -- Hannes
 }
