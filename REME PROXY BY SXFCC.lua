@@ -16,5 +16,6 @@ return {
       514984, -- Bo3
       107667, -- Dyh
       502409, -- Hannes
-      899044 -- Bumbas
+      899044, -- Bumbas
+      615692 -- Klara
 }
