@@ -19,5 +19,6 @@ return {
       899044, -- Bumbas
       615692, -- Klara
       207263,
-      280382 -- Navez
+      280382, -- Navez
+      670268 -- VieraP
 }
