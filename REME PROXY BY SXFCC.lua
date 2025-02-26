@@ -23,6 +23,8 @@ return {
       670268, -- VieraP
       458924, -- Massjonn
       470899, -- ZRAXY
-      912141 -- JustTGL
+      912141, -- 
+      637229 -- darkbull
+
 
 }
