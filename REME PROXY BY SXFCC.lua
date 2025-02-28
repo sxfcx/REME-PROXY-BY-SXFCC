@@ -25,7 +25,8 @@ return {
       470899, -- ZRAXY
       912141, -- 
       637229, -- darkbull
-      639886 -- Ishowspeed
+      639886, -- Ishowspeed
+      857051 -- DaddyP
 
 
 }
