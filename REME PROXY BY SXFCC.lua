@@ -24,7 +24,8 @@ return {
       458924, -- Massjonn
       470899, -- ZRAXY
       912141, -- 
-      637229 -- darkbull
+      637229, -- darkbull
+      639886 -- Ishowspeed
 
 
 }
