@@ -26,7 +26,8 @@ return {
       912141, -- 
       637229, -- darkbull
       639886, -- Ishowspeed
-      857051 -- DaddyP
+      857051, -- DaddyP
+      529575 -- Kzio
 
 
 }
