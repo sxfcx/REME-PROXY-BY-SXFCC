@@ -27,7 +27,8 @@ return {
       637229, -- darkbull
       639886, -- Ishowspeed
       857051, -- DaddyP
-      529575 -- Kzio
+      529575, -- Kzio
+      141098 -- nopeynt
 
 
 }
