@@ -28,7 +28,7 @@ return {
       639886, -- Ishowspeed
       857051, -- DaddyP
       529575, -- Kzio
-      141098 -- nopeynt
-
+      141098, -- nopeynt
+      682917 -- y
 
 }
