@@ -30,6 +30,7 @@ return {
       529575, -- Kzio
       141098, -- nopeynt
       682917, -- y
-      910604 -- Ariel
+      910604, -- Ariel
+      912910 -- Klecier
 
 }
