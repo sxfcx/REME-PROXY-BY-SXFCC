@@ -31,6 +31,7 @@ return {
       141098, -- nopeynt
       682917, -- y
       910604, -- Ariel
-      912910 -- Klecier
+      912910, -- Klecier
+      923493 -- Nqbi
 
 }
