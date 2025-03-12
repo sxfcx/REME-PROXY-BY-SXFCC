@@ -32,6 +32,7 @@ return {
       682917, -- y
       910604, -- Ariel
       912910, -- Klecier
-      923493 -- Nqbi
+      923493, -- Nqbi
+      924457 -- owobcuy
 
 }
