@@ -34,6 +34,7 @@ return {
       912910, -- Klecier
       923493, -- Nqbi
       924457, -- owobcuy
-      148758 --RENQUINCY
+      148758, --RENQUINCY
+      776452 -- Corbuzier
 
 }
