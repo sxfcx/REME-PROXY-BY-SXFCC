@@ -35,6 +35,7 @@ return {
       923493, -- Nqbi
       924457, -- owobcuy
       148758, --RENQUINCY
-      776452 -- Corbuzier
+      776452, -- Corbuzier
+      827167 -- Itermitas
 
 }
