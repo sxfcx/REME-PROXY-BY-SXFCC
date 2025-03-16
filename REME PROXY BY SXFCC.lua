@@ -37,6 +37,7 @@ return {
       148758, --RENQUINCY
       776452, -- Corbuzier
       827167, -- Itermitas
-      927785 -- fazx
+      927785, -- fazx
+      861094 -- Oke
 
 }
