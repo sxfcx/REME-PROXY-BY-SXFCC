@@ -38,6 +38,8 @@ return {
       776452, -- Corbuzier
       827167, -- Itermitas
       927785, -- fazx
-      861094 -- Oke
+      861094, -- Oke
+      719805, -- Dika
+      921084 -- Borzenk
 
 }
