@@ -41,6 +41,7 @@ return {
       861094, -- Oke
       719805, -- Dika
       921084, -- Borzenk
-      651874 -- cecemung
+      651874, -- cecemung
+      645679 -- bfg go xpp
 
 }
