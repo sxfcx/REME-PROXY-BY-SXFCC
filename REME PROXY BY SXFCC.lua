@@ -45,6 +45,7 @@ return {
       645679, -- bfg go xpp
       911023, -- Ohhmyrell
       100055, -- Lmaoo ADD UID
-      437290 -- Yapping anjinggg
+      437290, -- Yapping anjinggg
+      376061 -- whatdadogdoin8519
 
 }
