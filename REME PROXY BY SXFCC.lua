@@ -48,6 +48,7 @@ return {
       437290, -- Yapping anjinggg
       376061, -- whatdadogdoin8519
       132545, -- Ohmyrell add uid
-      613000 -- RAZEN
+      613000, -- RAZEN
+      491997 -- diana_
 
 }
