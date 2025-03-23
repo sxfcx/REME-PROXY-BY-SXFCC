@@ -47,6 +47,7 @@ return {
       100055, -- Lmaoo ADD UID
       437290, -- Yapping anjinggg
       376061, -- whatdadogdoin8519
-      132545 -- Ohmyrell add uid
+      132545, -- Ohmyrell add uid
+      613000 -- RAZEN
 
 }
