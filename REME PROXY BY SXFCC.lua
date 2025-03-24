@@ -53,6 +53,7 @@ return {
       913809, -- POCONG
       75595, -- KAII
       927066, -- Aetrix
-      246717 -- HANSTZ
+      246717, -- HANSTZ
+      697195 -- Ken
 
 }
