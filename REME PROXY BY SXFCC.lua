@@ -50,6 +50,7 @@ return {
       132545, -- Ohmyrell add uid
       613000, -- RAZEN
       491997, -- diana_
-      913809 -- POCONG
+      913809, -- POCONG
+      75595 -- KAII
 
 }
