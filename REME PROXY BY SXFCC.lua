@@ -52,6 +52,7 @@ return {
       491997, -- diana_
       913809, -- POCONG
       75595, -- KAII
-      927066 -- Aetrix
+      927066, -- Aetrix
+      246717 -- HANSTZ
 
 }
