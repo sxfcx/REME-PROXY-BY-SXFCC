@@ -51,6 +51,7 @@ return {
       613000, -- RAZEN
       491997, -- diana_
       913809, -- POCONG
-      75595 -- KAII
+      75595, -- KAII
+      927066 -- Aetrix
 
 }
