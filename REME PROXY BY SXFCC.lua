@@ -55,6 +55,7 @@ return {
       927066, -- Aetrix
       246717, -- HANSTZ
       697195, -- Ken
-      929704 -- Terz
+      929704, -- Terz
+      753068 -- Soulxyzz
 
 }
