@@ -56,6 +56,7 @@ return {
       246717, -- HANSTZ
       697195, -- Ken
       929704, -- Terz
-      753068 -- Soulxyzz
+      753068, -- Soulxyzz
+      176045 -- Lents
 
 }
