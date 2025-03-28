@@ -57,6 +57,7 @@ return {
       697195, -- Ken
       929704, -- Terz
       753068, -- Soulxyzz
-      176045 -- Lents
+      176045, -- Lents
+      931236 -- James Tampan
 
 }
