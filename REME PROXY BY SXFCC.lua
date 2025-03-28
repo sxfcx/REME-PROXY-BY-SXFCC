@@ -58,6 +58,7 @@ return {
       929704, -- Terz
       753068, -- Soulxyzz
       176045, -- Lents
-      931236 -- James Tampan
+      931236, -- James Tampan
+      936712 -- Rizz
 
 }
