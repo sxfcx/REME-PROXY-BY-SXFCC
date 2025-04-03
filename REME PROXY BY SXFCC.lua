@@ -62,6 +62,7 @@ return {
       936712, -- Rizz
       921170, -- Markk
       884852, -- jawaa
-      49599 -- Adeelya
+      49599, -- Adeelya
+      27518 -- Auxy
 
 }
