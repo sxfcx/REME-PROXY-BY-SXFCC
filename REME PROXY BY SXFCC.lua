@@ -66,6 +66,7 @@ return {
       27518, -- Auxy
       464843, -- GENJI
       666528, -- 4N01
-      607921 -- Penpem
+      607921, -- Penpem
+      916668 -- ibo gotti
 
 }
