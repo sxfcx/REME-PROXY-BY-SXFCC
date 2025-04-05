@@ -67,6 +67,7 @@ return {
       464843, -- GENJI
       666528, -- 4N01
       607921, -- Penpem
-      916668 -- ibo gotti
+      916668, -- ibo gotti
+      120155 -- Ran
 
 }
