@@ -68,6 +68,7 @@ return {
       666528, -- 4N01
       607921, -- Penpem
       916668, -- ibo gotti
-      120155 -- Ran
+      120155, -- Ran
+      934321 -- Arutala deswara
 
 }
