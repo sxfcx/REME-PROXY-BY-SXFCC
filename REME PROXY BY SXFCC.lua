@@ -69,6 +69,7 @@ return {
       607921, -- Penpem
       916668, -- ibo gotti
       120155, -- Ran
-      934321 -- Arutala deswara
+      934321, -- Arutala deswara
+      942609-- zevy
 
 }
