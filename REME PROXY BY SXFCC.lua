@@ -70,6 +70,7 @@ return {
       916668, -- ibo gotti
       120155, -- Ran
       934321, -- Arutala deswara
-      942609-- zevy
+      942609,-- zevy
+      768941
 
 }
