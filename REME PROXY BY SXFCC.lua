@@ -71,6 +71,7 @@ return {
       120155, -- Ran
       934321, -- Arutala deswara
       942609,-- zevy
-      768941
+      768941,
+      857557 -- Jerazel
 
 }
