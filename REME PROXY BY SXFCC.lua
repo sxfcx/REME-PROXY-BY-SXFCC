@@ -73,6 +73,7 @@ return {
       942609,-- zevy
       768941,
       857557, -- Jerazel
-      944401 -- shishi
+      944401, -- shishi
+      706200 -- Taneli
 
 }
