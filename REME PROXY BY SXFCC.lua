@@ -75,6 +75,7 @@ return {
       857557, -- Jerazel
       944401, -- shishi
       706200, -- Taneli
-      538102 -- Jojowx
+      538102, -- Jojowx
+      917808 -- Nakunn
 
 }
