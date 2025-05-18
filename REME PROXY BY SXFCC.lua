@@ -76,6 +76,7 @@ return {
       944401, -- shishi
       706200, -- Taneli
       538102, -- Jojowx
-      917808 -- Nakunn
+      917808, -- Nakunn
+      771347 -- fir4s
 
 }
