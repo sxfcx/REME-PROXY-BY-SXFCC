@@ -77,6 +77,7 @@ return {
       706200, -- Taneli
       538102, -- Jojowx
       917808, -- Nakunn
-      347835 -- Aidoang
+      347835, -- Aidoang
+      771347 -- fir4s
 
 }
