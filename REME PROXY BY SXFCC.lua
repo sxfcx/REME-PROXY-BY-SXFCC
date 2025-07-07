@@ -81,6 +81,7 @@ return {
       771347, -- fir4s
       951750, -- K
       296658, -- ztrob
-      959281 -- BoyCliquee
+      959281, -- BoyCliquee
+      902390 -- HUUDES
 
 }
