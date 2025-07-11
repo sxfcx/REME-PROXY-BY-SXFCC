@@ -82,6 +82,7 @@ return {
       951750, -- K
       296658, -- ztrob
       959281, -- BoyCliquee
-      902390 -- HUUDES
+      902390, -- HUUDES
+      927472 -- Zenoo
 
 }
