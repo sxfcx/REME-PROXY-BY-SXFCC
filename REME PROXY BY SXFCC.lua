@@ -85,6 +85,7 @@ return {
       902390, -- HUUDES
       927472, -- Zenoo
       99960, -- nachos
-      738783 -- Rhidion
+      738783, -- Rhidion
+      476822 -- Giveaway winner 02/11/2025
 
 }
