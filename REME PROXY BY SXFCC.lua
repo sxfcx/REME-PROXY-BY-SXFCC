@@ -89,6 +89,7 @@ return {
       476822, -- Giveaway winner 02/11/2025
       573375, -- Pemula
       935235, -- JaK
-      987840 -- Zidhan type shit
+      987840, -- Zidhan type shit
+      994862 -- Houven
 
 }
