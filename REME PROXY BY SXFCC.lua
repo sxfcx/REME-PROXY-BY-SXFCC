@@ -90,6 +90,7 @@ return {
       573375, -- Pemula
       935235, -- JaK
       987840, -- Zidhan type shit
-      994862 -- Houven
+      994862, -- Houven
+      951572 -- Forzinter
 
 }
