@@ -91,6 +91,7 @@ return {
       935235, -- JaK
       987840, -- Zidhan type shit
       994862, -- Houven
-      951572 -- Forzinter
+      951572, -- Forzinter
+      124783 -- JourneyEveryDay
 
 }
